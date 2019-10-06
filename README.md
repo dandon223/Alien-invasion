@@ -1,2 +1,2 @@
 # Alien_invasion
-gra Alien_invason 
+Little game project. I made it in order to learn python syntax.
